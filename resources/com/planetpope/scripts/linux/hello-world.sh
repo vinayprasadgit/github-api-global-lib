@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello ${config.name}. Today is ${config.dayOfWeek}."
+echo Hello $1. Today is $2. $3
